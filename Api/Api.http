@@ -1,0 +1,6 @@
+@Api_HostAddress = https://localhost:7040
+
+### Get people
+
+GET {{Api_HostAddress}}/people/
+Accept: application/json

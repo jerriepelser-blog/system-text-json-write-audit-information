@@ -1,0 +1,7 @@
+@ApiWithInjectedOptions_HostAddress = https://localhost:7079
+
+### Get people
+
+GET {{ApiWithInjectedOptions_HostAddress}}/people/
+Authorization: Bearer <your bearer token here>
+Accept: application/json
